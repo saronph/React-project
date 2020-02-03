@@ -1,3 +1,5 @@
+![Alt Text](https://github.com/saronph/react-github-api/blob/master/.github/logo.jpg)
+
 # Projeto React com API do Github
 Projeto realizado no bootcamp da [Rocketseat](https://rocketseat.com.br/) abordando conceitos do React.
 
@@ -46,4 +48,4 @@ As libs serão instaladas como dependência do projeto, abaixo algumas utilizada
 
 ### Demonstração
 
-![Alt Text](https://github.com/saronph/Curso-AirCnC/blob/master/frontend/.github/frontend.gif)
+![Alt Text](https://github.com/saronph/react-github-api/blob/master/.github/github-api.gif)
